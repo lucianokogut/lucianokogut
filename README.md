@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**lucianokogut/lucianokogut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I am currently working in the education area, working on projects for training and mentoring IT/Dev professionals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I'm currently learning about cloud computing projects
+
+- 👯 I'm collaborating with the process of selection and nomination of future talents in the technology area
+
+- 🤔 I'm looking for help to expand the hiring of junior IT/Dev professionals
+
+- 💬 Ask me about AWS and Cisco partnerships, Java / Web / JS / Node / Android / Linux academics and new business
+
+- 📫 How to contact me: ...
+LinkedIn Email
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ⚡ Curiosities:
+🚴‍♂️ I am a Randonneur cyclist - Audax 🚵‍♂️
+👨‍👩‍👧‍👦 I love my family ​👵+👴​👨+👩=👦+👧​
+⛰️ The 'Serra do Mar' and the 'Pico Marumbi' are my passions 🌄
