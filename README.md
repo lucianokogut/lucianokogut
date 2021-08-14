@@ -14,7 +14,7 @@
 ⛰️ The 'Serra do Mar' and the 'Pico Marumbi' are my passions 🌄 <br />
 
 ###### Languages and learning
-![Portuguese](https://img.shields.io/badge/-Portuguese-blueviolet?style=for-the-badge&color=005f99)
+![Portuguese](https://img.shields.io/badge/-Portuguese-blueviolet?style=for-the-badge&color=005f99)<br />
 👨‍🎓
 ![English](https://img.shields.io/badge/-English-blueviolet?style=for-the-badge&color=ff449f)
 📒
