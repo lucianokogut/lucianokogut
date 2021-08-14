@@ -10,7 +10,7 @@
 - 💬 Ask me about AWS and Cisco partnerships, Java / Web / JS / Node / Android / Linux academics and new business
 - ⚡ Curiosities for me: <br />
 🚴‍♂️ I'm a Randonneur cyclist = 'Audax Floripa' 🚵‍♂️ <br />
-👨‍👩‍👧‍👦 I love my family ​👵+👴​👨+👩=👦+👧​ <br />
+👨‍👩‍👧‍👦 I love my family ​👵+👴 => 👨+👩=👦+👧​ <br />
 ⛰️ The 'Serra do Mar' and the 'Pico Marumbi' are my passions 🌄 <br />
 
 ###### Languages and learning
