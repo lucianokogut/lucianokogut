@@ -27,6 +27,7 @@
 ![Rancher](https://img.shields.io/badge/rancher-%23007ACC.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-1B6AC6.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-pink.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ###### What I know - Languages 🤔??
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,6 +35,7 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=java&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ###### What I know - Tools
