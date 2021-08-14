@@ -1,6 +1,6 @@
 ### Hello people 👋
 
-#### I'm a experienced professor, IT analyst and IT coordinator from 🌉 Florianópolis 🇧🇷 Brazil
+#### I'm a experienced professor, IT analyst and IT coordinator in 🌉 Florianópolis 🇧🇷 Brazil
 
 ###### How I am
 - 🔭 I'm currently working in the education area, working on projects for training and mentoring IT/Dev professionals
@@ -15,7 +15,9 @@
 
 ###### Languages and learning
 ![Portuguese](https://img.shields.io/badge/-Portuguese-blueviolet?style=for-the-badge&color=005f99)
-📒![English](https://img.shields.io/badge/-English-blueviolet?style=for-the-badge&color=ff449f)
+![image](https://user-images.githubusercontent.com/54027728/129450630-05ae1754-d525-438f-afef-2defff35a98c.png)
+![English](https://img.shields.io/badge/-English-blueviolet?style=for-the-badge&color=ff449f)
+📒
 
 ###### What I know - Infra
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
