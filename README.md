@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I am currently working in the education area, working on projects for training and mentoring IT/Dev professionals
+- 🔭 I'm currently working in the education area, working on projects for training and mentoring IT/Dev professionals
 
 - 🌱 I'm currently learning about cloud computing projects
 
