@@ -15,9 +15,7 @@
 
 ###### Languages and learning
 👍![Portuguese](https://img.shields.io/badge/-Portuguese-blueviolet?style=for-the-badge&color=005f99)✔<br />
-👨‍🎓
-![English](https://img.shields.io/badge/-English-blueviolet?style=for-the-badge&color=ff449f)
-📒
+👨‍🎓![English](https://img.shields.io/badge/-English-blueviolet?style=for-the-badge&color=ff449f)📚📖📒
 
 ###### What I know - Infra
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
