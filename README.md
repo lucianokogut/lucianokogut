@@ -15,7 +15,7 @@
 
 ###### Languages and learning
 ![Portuguese](https://img.shields.io/badge/-Portuguese-blueviolet?style=for-the-badge&color=005f99)
-![image](https://user-images.githubusercontent.com/54027728/129450630-05ae1754-d525-438f-afef-2defff35a98c.png)
+👨‍🎓
 ![English](https://img.shields.io/badge/-English-blueviolet?style=for-the-badge&color=ff449f)
 📒
 
