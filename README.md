@@ -45,6 +45,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-blueviolet?style=for-the-badge&logo=mysql&color=orange)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+###### Make contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianokogut/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ljkogut)
 [![Email](https://img.shields.io/badge/hotmail-311C87?style=for-the-badge&logo=hotmail)](mailto:ljkogut@hotmail.com)
