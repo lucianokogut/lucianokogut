@@ -8,7 +8,7 @@
 - 👯 I'm collaborating with the process of selection and nomination of future talents in the technology area
 - 🤔 I'm looking for help to expand the hiring of junior IT/Dev professionals
 - 💬 Ask me about AWS and Cisco partnerships, Java / Web / JS / Node / Android / Linux academics and new business
-- ⚡ Curiosities for me: <br />
+- ⚡ Particularities about me: <br />
 🚴‍♂️ I'm a Randonneur cyclist = 'Audax Floripa' 🚵‍♂️ <br />
 👨‍👩‍👧‍👦 I love my family ​👵+👴 => 👨+👩=👦+👧​ <br />
 ⛰️ The 'Serra do Mar' and the 'Pico Marumbi' are my passions 🌄 <br />
