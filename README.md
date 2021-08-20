@@ -1,6 +1,6 @@
 ### Hello people 👋
 
-#### I'm a experienced professor, IT analyst and IT coordinator in 🌉 Florianópolis <a href='https://emojitool.com/pt/flag-for-brazil'>🇧🇷</a> Brazil
+#### I'm a experienced professor, IT analyst and IT coordinator in 🌉 Florianópolis 🇧🇷 Brazil
 
 ###### How I am
 - 🔭 I'm currently working in the education area, working on projects for training and mentoring IT/Dev professionals
