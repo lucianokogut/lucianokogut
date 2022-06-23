@@ -37,7 +37,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=java&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![COBOL](https://img.shields.io/badge/cobol-311A87?style=for-the-badge&logo=cobol&logoColor=white)
+![COBOL](https://img.shields.io/badge/cobol-311E99?style=for-the-badge&logo=cobol&logoColor=white)
 
 ###### What I know - Tools
 ![VS Code](https://img.shields.io/badge/vscode-%238DD6F9.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
