@@ -21,8 +21,8 @@
 ###### What I know - Infra
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CISCO](https://img.shields.io/badge/cisco-%23117AC9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![MS-Azure](https://img.shields.io/badge/ms-azure-1B6AC6.svg?style=for-the-badge&logo=azure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/OCI-%23DD0031.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft-Azure](https://img.shields.io/badge/ms-azure-1B6AC6.svg?style=for-the-badge&logo=azure&logoColor=white)
+![Oracle-Cloud](https://img.shields.io/badge/OCI-%23DD0031.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
