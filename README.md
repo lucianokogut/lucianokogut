@@ -8,6 +8,7 @@
 - 👯 I'm collaborating with the process of selection and nomination of future talents in the technology area
 - 🤔 I'm looking for help to expand the hiring of junior IT/Dev professionals
 - 💬 Ask me about AWS and Cisco partnerships, Java / Web / JS / Node / Android / Linux academics and new business
+- 📝 I'm certified in Cloud Foundation by AWS, MS-Azure, OCI and I'm preparing for GCP certification and Cloud Architect level certifications
 - ⚡ Particularities about me: <br />
 🚴‍♂️ I'm a Randonneur cyclist = 'Audax Floripa' 🚵‍♂️ <br />
 👨‍👩‍👧‍👦 I love my family ​👵+👴 => 👨+👩=👦+👧​ <br />
@@ -20,7 +21,8 @@
 ###### What I know - Infra
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CISCO](https://img.shields.io/badge/cisco-%23117AC9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Furukawa](https://img.shields.io/badge/furukawa-%23DD0031.svg?style=for-the-badge&logo=furukawa&logoColor=white)
+![MS-Azure](https://img.shields.io/badge/ms-azure-1B6AC6.svg?style=for-the-badge&logo=azure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-%23DD0031.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -28,6 +30,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-1B6AC6.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-pink.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Furukawa](https://img.shields.io/badge/furukawa-%23DD0031.svg?style=for-the-badge&logo=furukawa&logoColor=white)
 
 ###### What I know - Languages 🤔??
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
