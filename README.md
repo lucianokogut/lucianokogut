@@ -8,7 +8,8 @@
 - 👯 I'm collaborating with the process of selection and nomination of future talents in the technology area
 - 🤔 I'm looking for help to expand the hiring of junior IT/Dev professionals
 - 💬 Ask me about AWS and Cisco partnerships, Java / Web / JS / Node / Android / Linux academics and new business
-- 📝 I'm certified in Cloud Foundation by AWS, MS-Azure, OCI and I'm preparing for GCP certification and Cloud Architect level certifications
+- 📝 I'm certified in Cloud Foundation by AWS, MS-Azure and OCI
+- 🔖 I'm preparing for GCP certification and Cloud Architect level certifications
 - ⚡ Particularities about me: <br />
 🚴‍♂️ I'm a Randonneur cyclist = 'Audax Floripa' 🚵‍♂️ <br />
 👨‍👩‍👧‍👦 I love my family ​👵+👴 => 👨+👩=👦+👧​ <br />
