@@ -36,10 +36,11 @@
 ###### What I know - Languages 🤔??
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=java&logoColor=black)
+![Golang](https://img.shields.io/badge/golang-blue.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=java&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![COBOL](https://img.shields.io/badge/cobol-311C79?style=for-the-badge&logo=cobol&logoColor=white)
 
