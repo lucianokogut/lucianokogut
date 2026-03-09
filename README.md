@@ -10,6 +10,7 @@
 - 💬 Ask me about AWS and Cisco partnerships, Java / Web / JS / Node / Android / Linux academics and new business
 - 📝 I'm certified in Cloud Foundation by AWS, Azure, OCI and Cloudera Generalist
 - 🔖 I'm preparing for GCP certification and Cloud Architect level certifications
+- 📜 Check out my badges on [Credly Badges](https://www.credly.com/users/luciano-jose-kogut/badges)
 - ⚡ Particularities about me: <br />
 🚴‍♂️ I'm a Randonneur cyclist = 'Audax Floripa' 🚵‍♂️ <br />
 👨‍👩‍👧‍👦 I love my family ​👵+👴 => 👨+👩=👦+👧​ <br />
@@ -22,6 +23,7 @@
 ###### What I know - Infra
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CISCO](https://img.shields.io/badge/cisco-%23117AC9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Microsoft-Azure](https://img.shields.io/badge/ms-azure-1B6AC6.svg?style=for-the-badge&logo=azure&logoColor=white)
 ![Oracle-Cloud](https://img.shields.io/badge/OCI-%23DD0031.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Cloudera](https://img.shields.io/badge/Cloudera-D24939?style=for-the-badge&logo=cloudera&logoColor=white)
