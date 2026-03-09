@@ -4,7 +4,7 @@
 
 ###### How I am
 - 🔭 I'm currently working in the education area, working on projects for training and mentoring IT/Dev professionals
-- 🌱 I'm currently learning about cloud computing projects and DevOps
+- 🌱 I'm currently learning about artificial intelligence, cloud computing projects and DevOps
 - 👯 I'm collaborating with the process of selection and nomination of future talents in the technology area
 - 🤔 I'm looking for help to expand the hiring of junior IT/Dev professionals
 - 💬 Ask me about AWS and Cisco partnerships, Java / Web / JS / Node / Android / Linux academics and new business
