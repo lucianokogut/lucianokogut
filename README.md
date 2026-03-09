@@ -8,7 +8,7 @@
 - 👯 I'm collaborating with the process of selection and nomination of future talents in the technology area
 - 🤔 I'm looking for help to expand the hiring of junior IT/Dev professionals
 - 💬 Ask me about AWS and Cisco partnerships, Java / Web / JS / Node / Android / Linux academics and new business
-- 📝 I'm certified in Cloud Foundation by AWS, MS-Azure and OCI
+- 📝 I'm certified in Cloud Foundation by AWS, Azure, OCI and Cloudera Generalist
 - 🔖 I'm preparing for GCP certification and Cloud Architect level certifications
 - ⚡ Particularities about me: <br />
 🚴‍♂️ I'm a Randonneur cyclist = 'Audax Floripa' 🚵‍♂️ <br />
@@ -24,23 +24,25 @@
 ![CISCO](https://img.shields.io/badge/cisco-%23117AC9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Microsoft-Azure](https://img.shields.io/badge/ms-azure-1B6AC6.svg?style=for-the-badge&logo=azure&logoColor=white)
 ![Oracle-Cloud](https://img.shields.io/badge/OCI-%23DD0031.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Cloudera](https://img.shields.io/badge/Cloudera-D24939?style=for-the-badge&logo=cloudera&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Rancher](https://img.shields.io/badge/rancher-%23007ACC.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-1B6AC6.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-pink.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Furukawa](https://img.shields.io/badge/furukawa-%23DD0031.svg?style=for-the-badge&logo=furukawa&logoColor=white)
 
 ###### What I know - Languages 🤔??
 ![HTML5](https://img.shields.io/badge/html5-%23DD0031.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=java&logoColor=black)
-![Golang](https://img.shields.io/badge/golang-%231572B6.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-%231572B6.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![COBOL](https://img.shields.io/badge/cobol-311C79?style=for-the-badge&logo=cobol&logoColor=white)
 
